@@ -9,5 +9,11 @@ namespace App
             Console.WriteLine("Hello, World!");
         }
 
+        public static void MyMethod()
+        {
+            Console.WriteLine("New Method!");
+        }
+
+
     }
 }
